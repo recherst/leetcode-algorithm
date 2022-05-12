@@ -25,6 +25,8 @@ import UIKit
 
  提示：
  -231 <= x <= 231 - 1
+ 
+ 进阶：你能不将整数转为字符串来解决这个问题吗？
  */
 
 func isPalindrome(_ x: Int) -> Bool {
