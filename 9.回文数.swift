@@ -33,25 +33,14 @@ class Solution {
         if x >= 0 {
             if x >= 10 {
                 let str = String(x)
-                if str.count % 2 == 0 { // 偶数
-                    for i in 0..<str.count / 2 {
-                        let index = str.index(str.startIndex, offsetBy: i)
-                        let lastIndex = str.index(str.startIndex, offsetBy: str.count - 1 - i)
-                        if str[index] != str[lastIndex] {
-                            return false
-                        }
+                for i in 0..<str.count / 2 {
+                    let index = str.index(str.startIndex, offsetBy: i)
+                    let lastIndex = str.index(str.startIndex, offsetBy: str.count - 1 - i)
+                    if str[index] != str[lastIndex] {
+                        return false
                     }
-                    return true
-                } else { // 奇数
-                    for i in 0..<(str.count - 1) / 2 {
-                        let index = str.index(str.startIndex, offsetBy: i)
-                        let lastIndex = str.index(str.startIndex, offsetBy: str.count - 1 - i)
-                        if str[index] != str[lastIndex] {
-                            return false
-                        }
-                    }
-                    return true
                 }
+                return true
             } else {
                 return true
             }
