@@ -28,40 +28,27 @@ import Darwin
 // @lc code=start
 class Solution {
     func longestCommonPrefix(_ strs: [String]) -> String {
-        // 先找出最短的那个字符串
-        var shortestStr = strs.first ?? ""
-        var length = strs[0].count
-        var index = 0
-        var copyStrs = strs
-        for (i, str) in strs.dropFirst().enumerated() {
-            if str.count < length {
-                length = str.count
-                shortestStr = str
-                index = i + 1
+        if strs.count == 1 { return strs[0] }
+        var flag = strs[0].count
+        for str in strs.dropFirst() {
+            if str.count < flag {
+                flag = str.count
             }
-        }
-        // 移除最短的一个后，再遍历
-        copyStrs.remove(at: index)
-        var flag = shortestStr.count
-        loop1: for str in copyStrs {
-            loop2: for (i, s) in str.enumerated() {
-                loop3: for (j, c) in shortestStr.enumerated() {
+            for (i, s) in str.enumerated() {
+                for (j, c) in strs[0].enumerated() {
                     if i == j && s != c {
-                        // flag 会被找到很多次，我们要找出一个最小的
                         if j < flag {
                             flag = j
                         }
-                        break loop2
                     }
                 }
             }
         }
-        
-        return String(shortestStr.prefix(flag))
+        return String(strs[0].prefix(flag))
     }
 }
 // @lc code=end
 
-let strs = ["reflower","flow","flight"]
+let strs = ["ab", "a"]
 let s = Solution()
 print(s.longestCommonPrefix(strs))
