@@ -7,3 +7,4 @@
 5. [有效的括号](https://github.com/recherst/leetcode-algtorithm/blob/main/20.有效的括号.playground/Contents.swift)
 6. [合并两个有序链表](https://github.com/recherst/leetcode-algtorithm/blob/main/21.合并两个有序链表.playground/Contents.swift)
 7. [删除有序属组中的重复项](https://github.com/recherst/leetcode-algtorithm/blob/main/26.删除有序数组中的重复项.playground/Contents.swift)
+8. [Remove Element](https://github.com/recherst/leetcode-algtorithm/blob/main/27.Remove%20Element.playground/Contents.swift)
