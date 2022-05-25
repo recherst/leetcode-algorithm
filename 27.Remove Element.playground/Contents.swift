@@ -52,6 +52,21 @@ class Solution {
         nums.removeAll { $0 == val }
         return nums.count
     }
+    
+    func removeElement2(_ nums: inout [Int], _ val: Int) -> Int {
+        var flag = 0
+        for el in nums {
+            if el == val {
+                flag += 1
+            }
+        }
+        for _ in 0...flag {
+            if let index = nums.firstIndex(of: val) {
+                nums.remove(at: index)
+            }
+        }
+        return nums.count
+    }
 }
 
 let s = Solution()
