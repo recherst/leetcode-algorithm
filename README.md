@@ -9,3 +9,4 @@
 7. [Remove Duplicates from Sorted Array](https://github.com/recherst/leetcode-algtorithm/blob/main/26.Remove%20Duplicates%20from%20Sorted%20Array.playground/Contents.swift)
 8. [Remove Element](https://github.com/recherst/leetcode-algtorithm/blob/main/27.Remove%20Element.playground/Contents.swift)
 9. [Implement strStr](https://github.com/recherst/leetcode-algtorithm/blob/main/28.Implement%20strStr.playground/Contents.swift)
+10. [Search Insert Position](https://github.com/recherst/leetcode-algtorithm/blob/main/35.Search%20Insert%20Position.playground/Contents.swift)
