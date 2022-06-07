@@ -1,18 +1,28 @@
 /**
- 将两个升序链表合并为一个新的 升序 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。
+ Merge the two lists in a one sorted list. The list should be made by splicing together the nodes of the first two lists.
 
+ Return the head of the merged linked list.
 
- 示例 1：
- 输入：l1 = [1,2,4], l2 = [1,3,4]
- 输出：[1,1,2,3,4,4]
+  
+
+ Example 1:
+ Input: list1 = [1,2,4], list2 = [1,3,4]
+ Output: [1,1,2,3,4,4]
  
- 示例 2：
- 输入：l1 = [], l2 = []
- 输出：[]
+ Example 2:
+ Input: list1 = [], list2 = []
+ Output: []
  
- 示例 3：
- 输入：l1 = [], l2 = [0]
- 输出：[0]
+ Example 3:
+ Input: list1 = [], list2 = [0]
+ Output: [0]
+  
+
+ Constraints:
+
+ - The number of nodes in both lists is in the range [0, 50].
+ - -100 <= Node.val <= 100
+ - Both list1 and list2 are sorted in non-decreasing order.
  */
 
 /*
