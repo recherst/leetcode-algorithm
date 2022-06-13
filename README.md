@@ -14,3 +14,4 @@
 12. [Length of Last Word](https://github.com/recherst/leetcode-algtorithm/blob/main/58.Length%20of%20Last%20Word.playground/Contents.swift)
 13. [Plus One](https://github.com/recherst/leetcode-algtorithm/blob/main/66.Plus%20One.playground/Contents.swift)
 14. [Add Binary](https://github.com/recherst/leetcode-algtorithm/blob/main/67.Add%20Binary.playground/Contents.swift)
+15. [Sqrt(x)](https://github.com/recherst/leetcode-algtorithm/blob/main/69.Sqrt(x).playground/Contents.swift)
