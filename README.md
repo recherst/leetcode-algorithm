@@ -12,3 +12,4 @@
 10. [Search Insert Position](https://github.com/recherst/leetcode-algtorithm/blob/main/35.Search%20Insert%20Position.playground/Contents.swift)
 11. [Maximum Subarray](https://github.com/recherst/leetcode-algtorithm/blob/main/53.Maximum%20Subarray.playground/Contents.swift)
 12. [Length of Last Word](https://github.com/recherst/leetcode-algtorithm/blob/main/58.Length%20of%20Last%20Word.playground/Contents.swift)
+13. [Plus One](https://github.com/recherst/leetcode-algtorithm/blob/main/66.Plus%20One.playground/Contents.swift)
