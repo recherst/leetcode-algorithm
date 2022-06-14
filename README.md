@@ -16,4 +16,5 @@
 14. [Add Binary](https://github.com/recherst/leetcode-algtorithm/blob/main/67.Add%20Binary.playground/Contents.swift)
 15. [Sqrt(x)](https://github.com/recherst/leetcode-algtorithm/blob/main/69.Sqrt(x).playground/Contents.swift)
 16. [Climbing Stairs](https://github.com/recherst/leetcode-algtorithm/blob/main/70.Climbing%20Stairs.playground/Contents.swift)
+17. [Remove Duplicates from Sorted List](https://github.com/recherst/leetcode-algtorithm/blob/main/83.Remove%20Duplicates%20from%20Sorted%20List.playground/Contents.swift)
 
