@@ -19,4 +19,5 @@
 17. [Remove Duplicates from Sorted List](https://github.com/recherst/leetcode-algtorithm/blob/main/83.Remove%20Duplicates%20from%20Sorted%20List.playground/Contents.swift)
 18. [Merge Sorted Array](https://github.com/recherst/leetcode-algtorithm/blob/main/88.Merge%20Sorted%20Array.playground/Contents.swift)
 19. [Binary Tree Inorder Traversal](https://github.com/recherst/leetcode-algtorithm/blob/main/94.Binary%20Tree%20Inorder%20Traversal.playground/Contents.swift)
+20. ~~[Same Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/100.Same%20Tree.playground/Contents.swift)~~
 
