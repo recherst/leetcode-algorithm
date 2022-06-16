@@ -40,42 +40,9 @@ public class TreeNode {
 class Solution {
     func isSameTree(_ p: TreeNode?, _ q: TreeNode?) -> Bool {
         if p == nil && q == nil { return true }
-        
-        var pStack = [TreeNode]()
-        var pInorderTraversal = [Int?]()
-        var pCurrent = p
-        while pCurrent?.val != nil || !pStack.isEmpty {
-            if let pNode = pCurrent {
-                pStack.append(pNode)
-                pCurrent = pNode.left
-                if pCurrent == nil {
-                    pInorderTraversal.append(nil)
-                }
-            } else {
-                let node = pStack.popLast()!
-                pInorderTraversal.append(node.val)
-                pCurrent = node.right
-            }
-        }
-        
-        var qStack = [TreeNode]()
-        var qInorderTraversal = [Int?]()
-        var qCurrent = q
-        while qCurrent?.val != nil || !qStack.isEmpty {
-            if let qNode = qCurrent {
-                qStack.append(qNode)
-                qCurrent = qNode.left
-                if qCurrent == nil {
-                    qInorderTraversal.append(nil)
-                }
-            } else {
-                let node = qStack.popLast()!
-                qInorderTraversal.append(node.val)
-                qCurrent = node.right
-            }
-        }
-        print(pInorderTraversal, qInorderTraversal)
-        return pInorderTraversal == qInorderTraversal
+        if p == nil || q == nil { return false }
+        if p?.val != q?.val { return false }
+        return isSameTree(p?.left, q?.left) && isSameTree(p?.right, q?.right)
     }
 }
 
