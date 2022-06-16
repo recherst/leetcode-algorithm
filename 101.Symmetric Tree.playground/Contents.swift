@@ -45,9 +45,33 @@ class Solution {
         if p?.val != q?.val { return false }
         return isSameTree(p?.left, q?.right) && isSameTree(p?.right, q?.left)
     }
+    
+    // Iterate
+    func isSymmetric2(_ root: TreeNode?) -> Bool {
+        if root == nil { return true }
+        var stack = [TreeNode?]()
+        stack.append(root!.left)
+        stack.append(root!.right)
+        while !stack.isEmpty {
+            let rightNode = stack.popLast()!
+            let leftNode = stack.popLast()!
+            if leftNode == nil && rightNode == nil {
+                continue
+            }
+            if leftNode?.val != rightNode?.val {
+                return false
+            }
+            
+            stack.append(leftNode?.left)
+            stack.append(rightNode?.right)
+            stack.append(leftNode?.right)
+            stack.append(rightNode?.left)
+        }
+        return true
+    }
 }
 
 let s = Solution()
-let t = TreeNode(1, TreeNode(2, TreeNode(2, TreeNode(2), nil), TreeNode(2)), nil)
-let r = s.isSymmetric(t)
+let t = TreeNode(1, TreeNode(2, TreeNode(2, TreeNode(3), TreeNode(4)), TreeNode(4)), TreeNode(3))
+let r = s.isSymmetric2(t)
 print(r)
