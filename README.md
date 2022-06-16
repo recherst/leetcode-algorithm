@@ -20,4 +20,4 @@
 18. [Merge Sorted Array](https://github.com/recherst/leetcode-algtorithm/blob/main/88.Merge%20Sorted%20Array.playground/Contents.swift)
 19. [Binary Tree Inorder Traversal](https://github.com/recherst/leetcode-algtorithm/blob/main/94.Binary%20Tree%20Inorder%20Traversal.playground/Contents.swift)
 20. [Same Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/100.Same%20Tree.playground/Contents.swift)
-
+21. [Symmetric Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/101.Symmetric%20Tree.playground/Contents.swift)
