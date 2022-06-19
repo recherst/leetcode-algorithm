@@ -24,3 +24,4 @@
 22. [Maximum Depth of Binary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/104.Maximum%20Depth%20of%20Binary%20Tree.playground/Contents.swift)
 23. [Balanced Binary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/110.Balanced%20Binary%20Tree.playground/Contents.swift)
 24. [Convert Sorted Array to Binary Search Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.playground/Contents.swift)
+25. [Minimum Depth of Binary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/108.Minimum%20Depth%20of%20Binary%20Tree.playground/Contents.swift)
