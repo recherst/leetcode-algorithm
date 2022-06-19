@@ -22,3 +22,4 @@
 20. [Same Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/100.Same%20Tree.playground/Contents.swift)
 21. [Symmetric Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/101.Symmetric%20Tree.playground/Contents.swift)
 22. [Maximum Depth of Binary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/104.Maximum%20Depth%20of%20Binary%20Tree.playground/Contents.swift)
+23. [Balanced Binary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/110.Balanced%20Binary%20Tree.playground/Contents.swift)
