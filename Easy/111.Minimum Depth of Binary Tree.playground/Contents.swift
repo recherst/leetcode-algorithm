@@ -35,6 +35,16 @@ public class TreeNode {
         self.right = right
     }
 }
+
+public class DepthOfNode {
+    public var node: TreeNode
+    public var height: Int
+    init(node: TreeNode, height: Int) {
+        self.node = node
+        self.height = height
+    }
+}
+
 class Solution {
     func minDepth(_ root: TreeNode?) -> Int {
         guard let root = root else { return 0 }
@@ -48,5 +58,34 @@ class Solution {
             return 1 + minDepth(leftNode)
         }
         return 1 + min(minDepth(leftNode), minDepth(rightNode))
+    }
+    
+    // Iterate
+    func minDepth2(_ root: TreeNode?) -> Int {
+        guard let root = root else { return 0 }
+        var queue = [DepthOfNode]()
+        queue.append(DepthOfNode(node: root, height: 1))
+        var totalHeight = 1
+        while !queue.isEmpty {
+            let firstItem = queue.remove(at: 0)
+            let node = firstItem.node
+            let height = firstItem.height
+            let leftNode = node.left
+            let rightNode = node.right
+            if leftNode == nil && rightNode == nil {
+                return height
+            }
+            if leftNode != nil {
+                totalHeight = height + 1
+                let newItem = DepthOfNode(node: leftNode!, height: height + 1)
+                queue.append(newItem)
+            }
+            if rightNode != nil {
+                totalHeight = height + 1
+                let newItem = DepthOfNode(node: rightNode!, height: height + 1)
+                queue.append(newItem)
+            }
+        }
+        return totalHeight
     }
 }
