@@ -26,3 +26,4 @@
 24. [Convert Sorted Array to Binary Search Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.playground/Contents.swift)
 25. [Minimum Depth of Binary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/111.Minimum%20Depth%20of%20Binary%20Tree.playground/Contents.swift)
 26. [Path Sum](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/112.Path%20Sum.playground/Contents.swift)
+27. [Greatest English Letter in Upper and Lower Case](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/5242.Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.playground/Contents.swift)
