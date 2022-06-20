@@ -28,3 +28,4 @@
 26. [Path Sum](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/112.Path%20Sum.playground/Contents.swift)
 27. [Greatest English Letter in Upper and Lower Case](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/5242.Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.playground/Contents.swift)
 28. [Pascal's Triangle](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/118.Pascal's%20Triangle.playground/Contents.swift)
+29. [Pascal's Triangle II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/119.Pascal's%20Triangle%20II.playground/Contents.swift)
