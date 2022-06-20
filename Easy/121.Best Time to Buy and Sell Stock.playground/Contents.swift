@@ -27,7 +27,7 @@ class Solution {
     func maxProfit(_ prices: [Int]) -> Int {
         var max = prices[0]
         var min = prices[0]
-        var buySellPair = [[Int]]()
+        var deltaMax = 0
         
         for i in 1..<prices.count {
             if prices[i] < min {
@@ -35,14 +35,10 @@ class Solution {
                 max = prices[i]
             } else {
                 max = prices[i]
-                buySellPair.append([min, max])
-            }
-        }
-        var deltaMax = 0
-        for e in buySellPair {
-            let diff = e[1] - e[0]
-            if diff > deltaMax {
-                deltaMax = diff
+                let delta = max - min
+                if delta > deltaMax {
+                    deltaMax = delta
+                }
             }
         }
         return deltaMax
@@ -50,5 +46,5 @@ class Solution {
 }
 
 let s = Solution()
-let r = s.maxProfit([7,6,4,3,1])
+let r = s.maxProfit([7,1,5,3,6,4])
 print(r)
