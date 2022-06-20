@@ -31,3 +31,4 @@
 29. [Pascal's Triangle II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/119.Pascal's%20Triangle%20II.playground/Contents.swift)
 30. [Best Time to Buy and Sell Stock](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.playground/Contents.swift)
 31. [Valid Palindrome](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/125.Valid%20Palindrome.playground/Contents.swift)
+32. [Single Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/136.Single%20Number.playground/Contents.swift)
