@@ -35,7 +35,6 @@ class Solution {
                 newStr.append(c)
             }
         }
-        print(newStr)
         guard !newStr.isEmpty else { return true }
         let preStr = String(newStr.prefix(newStr.count / 2))
         let sufStr = String(newStr.suffix(newStr.count / 2))
