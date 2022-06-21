@@ -34,3 +34,4 @@
 32. [Single Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/136.Single%20Number.playground/Contents.swift)
 33. [Linked List Cycle](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/141.Linked%20List%20Cycle.playground/Contents.swift)
 34. [Binary Tree Preorder Traversal](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/144.Binary%20Tree%20Preorder%20Traversal.playground/Contents.swift)
+35. [Binary Tree Postorder Traversal](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/145.Binary%20Tree%20Postorder%20Traversal.playground/Contents.swift)
