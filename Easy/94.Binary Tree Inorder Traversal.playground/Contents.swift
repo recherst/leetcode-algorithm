@@ -1,3 +1,4 @@
+import Darwin
 /**
  Given the root of a binary tree, return the inorder traversal of its nodes' values.
 
@@ -41,19 +42,25 @@ public class TreeNode {
 class Solution {
     func inorderTraversal(_ root: TreeNode?) -> [Int] {
         guard let root = root else { return [] }
-        var inOrderTraversal = [Int]()
-        var stack = [TreeNode]()
-        var currentNode: TreeNode? = root
-        while currentNode?.val != nil || !stack.isEmpty {
-            if let curNode = currentNode {
-                stack.append(curNode)
-                currentNode = curNode.left
+        return Array(inorderTraversal(root.left)) + [root.val] + Array(inorderTraversal(root.right))
+    }
+    
+    func inorderTraversal2(_ root: TreeNode?) -> [Int] {
+        guard let root = root else { return [] }
+        var stack = [TreeNode?]()
+        var r = [Int]()
+        var currNode: TreeNode? = root
+        while currNode !== nil || !stack.isEmpty {
+            if currNode != nil {
+                stack.append(currNode)
+                currNode = currNode?.left
             } else {
-                let node = stack.popLast()!
-                inOrderTraversal.append(node.val)
-                currentNode = node.right
+                if let node = stack.popLast()! {
+                    r.append(node.val)
+                    currNode = node.right
+                }
             }
         }
-        return inOrderTraversal
+        return r
     }
 }
