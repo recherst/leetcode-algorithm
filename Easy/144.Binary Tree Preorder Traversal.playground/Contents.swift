@@ -42,4 +42,23 @@ class Solution {
         guard let root = root else { return [] }
         return [root.val] + Array(preorderTraversal(root.left) + preorderTraversal(root.right))
     }
+    
+    // Iterate
+    func preorderTraversal2(_ root: TreeNode?) -> [Int] {
+        guard let root = root else { return [] }
+        var stack = [TreeNode]()
+        stack.append(root)
+        var r = [Int]()
+        while !stack.isEmpty {
+            let node = stack.popLast()!
+            r.append(node.val)
+            if let rightNode = node.right {
+                stack.append(rightNode)
+            }
+            if let leftNode = node.left {
+                stack.append(leftNode)
+            }
+        }
+        return r
+    }
 }
