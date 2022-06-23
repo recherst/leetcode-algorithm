@@ -40,3 +40,4 @@
 38. [Excel Sheet Column Title](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/168.Excel%20Sheet%20Column%20Title.playground/Contents.swift)
 39. [Excel Sheet Column Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/171.Excel%20Sheet%20Column%20Number.playground/Contents.swift)
 40. [Majority Element](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/169.Majority%20Element.playground/Contents.swift)
+41. [Reverse Bits](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/190.Reverse%20Bits.playground/Contents.swift)
