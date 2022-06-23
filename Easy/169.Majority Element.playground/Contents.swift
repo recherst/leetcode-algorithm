@@ -36,16 +36,13 @@ class Solution {
                 map[e] = 1
             }
         }
-        var targetKey = 0
-        for (key, value) in map {
-            if value > nums.count / 2 {
-                targetKey = key
-            }
+        let sortedMap = map.sorted { item1, item2 in
+            item1.value < item2.value
         }
-        return targetKey
+        return sortedMap.last!.key
     }
 }
 
 let s = Solution()
-let r = s.majorityElement([3, 2, 3])
+let r = s.majorityElement([3,3,4])
 print(r)
