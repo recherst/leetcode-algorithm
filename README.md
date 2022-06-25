@@ -44,3 +44,4 @@
 42. [Number of 1 Bits](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/191.Number%20of%201%20Bits.playground/Contents.swift)
 43. [Happy Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/202.Happy%20Number.playground/Contents.swift)
 44. [Remove Linked List Elements](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/203.Remove%20Linked%20List%20Elements.playground/Contents.swift)
+45. [Isomorphic Strings](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/205.Isomorphic%20Strings.playground/Contents.swift)
