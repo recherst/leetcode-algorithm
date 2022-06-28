@@ -47,3 +47,4 @@
 45. [Isomorphic Strings](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/205.Isomorphic%20Strings.playground/Contents.swift)
 46. [Reverse Linked List](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/206.Reverse%20Linked%20List.playground/Contents.swift)
 47. [Contains Duplicate](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/217.Contains%20Duplicate.playground/Contents.swift)
+48. [Contains Duplicate II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/219.Contains%20Duplicate%20II.playground/Contents.swift)
