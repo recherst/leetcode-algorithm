@@ -46,3 +46,4 @@
 44. [Remove Linked List Elements](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/203.Remove%20Linked%20List%20Elements.playground/Contents.swift)
 45. [Isomorphic Strings](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/205.Isomorphic%20Strings.playground/Contents.swift)
 46. [Reverse Linked List](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/206.Reverse%20Linked%20List.playground/Contents.swift)
+47. [Contains Duplicate](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/217.Contains%20Duplicate.playground/Contents.swift)
