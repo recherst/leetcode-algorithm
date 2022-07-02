@@ -48,3 +48,4 @@
 46. [Reverse Linked List](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/206.Reverse%20Linked%20List.playground/Contents.swift)
 47. [Contains Duplicate](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/217.Contains%20Duplicate.playground/Contents.swift)
 48. [Contains Duplicate II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/219.Contains%20Duplicate%20II.playground/Contents.swift)
+49. [Implement Stack using Queues](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/225.Implement%20Stack%20using%20Queues.playground/Contents.swift)
