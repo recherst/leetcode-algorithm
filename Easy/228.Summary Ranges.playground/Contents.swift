@@ -51,16 +51,21 @@ class Solution {
                 }
              }
         }
-        print(resultArr)
-        var result = [String]()
-        for e in resultArr {
+//        var result = [String]()
+//        for e in resultArr {
+//            if e.count > 1 {
+//                result.append("\(e.first!)->\(e.last!)")
+//            } else {
+//                result.append("\(e.first!)")
+//            }
+//        }
+        return resultArr.map { e -> String in
             if e.count > 1 {
-                result.append("\(e.first!)->\(e.last!)")
+                return "\(e.first!)->\(e.last!)"
             } else {
-                result.append("\(e.first!)")
+                return "\(e.first!)"
             }
         }
-        return result
     }
 }
 
