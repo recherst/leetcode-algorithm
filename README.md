@@ -51,3 +51,4 @@
 49. [Implement Stack using Queues](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/225.Implement%20Stack%20using%20Queues.playground/Contents.swift)
 50. [Invert Binary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/226.Invert%20Binary%20Tree.playground/Contents.swift)
 51. [Summary Ranges](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/228.Summary%20Ranges.playground/Contents.swift)
+52. [Power of Two](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/231.Power%20of%20Two.playground/Contents.swift)
