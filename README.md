@@ -56,6 +56,7 @@
 52. [Power of Two](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/231.Power%20of%20Two.playground/Contents.swift)
 53. [Palindrome Linked List](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/234.Palindrome%20Linked%20List.playground/Contents.swift)
 54. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.playground/Contents.swift)
+55. [Delete Node in a Linked List](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/237.Delete%20Node%20in%20a%20Linked%20List.playground/Contents.swift)
 
 #### Medium
 
