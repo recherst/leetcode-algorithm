@@ -39,7 +39,6 @@ class Solution : VersionControl {
         var count = n
         while count != 0 {
             let flag = isBadVersion(count)
-            print(flag)
             if flag == false {
                 return count + 1
             }
