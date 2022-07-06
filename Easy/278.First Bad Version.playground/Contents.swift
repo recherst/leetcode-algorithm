@@ -24,6 +24,9 @@
  Constraints:
  - 1 <= bad <= n <= 231 - 1
  */
+/**
+ Note: In order to pass build, I made a class named `VersionControl` and a function `isBadVersion()` to simulate actual environment. This API is provided when you test your solution at leetcode website.
+ */
 class VersionControl {
     func isBadVersion(_ version: Int) -> Bool {
         if version >= 2 { return true }
