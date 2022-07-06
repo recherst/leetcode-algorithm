@@ -39,4 +39,8 @@ class Solution {
         }
         return res
     }
+    
+    func addDigits2(_ num: Int) -> Int {
+        return num == 0 ? 0 : (num - 1) % 9 + 1
+    }
 }
