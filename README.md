@@ -66,6 +66,7 @@
 62. [Move Zeroes](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/283.Move%20Zeroes.playground/Contents.swift)
 63. [Word Pattern](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/290.Word%20Pattern.playground/Contents.swift)
 64. [Nim Game](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/292.Nim%20Game.playground/Contents.swift)
+65. [Range Sum Query - Immutable](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/303.Range%20Sum%20Query%20-%20Immutable.playground/Contents.swift)
 
 #### Medium
 
