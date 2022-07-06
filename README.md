@@ -62,6 +62,7 @@
 58. [Add Digits](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/258.Add%20Digits.playground/Contents.swift)
 59. [Ugly Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/263.Ugly%20Number.playground/Contents.swift)
 60. [Missing Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/268.Missing%20Number.playground/Contents.swift)
+61. [First Bad Version](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/278.First%20Bad%20Version.playground/Contents.swift)
 
 #### Medium
 
