@@ -59,6 +59,7 @@
 55. [Delete Node in a Linked List](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/237.Delete%20Node%20in%20a%20Linked%20List.playground/Contents.swift)
 56. [Valid Anagram](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/242.Valid%20Anagram.playground/Contents.swift)
 57. [Binary Tree Paths](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/257.Binary%20Tree%20Paths.playground/Contents.swift)
+58. [Add Digits](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/258.Add%20Digits.playground/Contents.swift)
 
 #### Medium
 
