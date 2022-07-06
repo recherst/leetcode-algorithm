@@ -65,6 +65,7 @@
 61. [First Bad Version](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/278.First%20Bad%20Version.playground/Contents.swift)
 62. [Move Zeroes](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/283.Move%20Zeroes.playground/Contents.swift)
 63. [Word Pattern](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/290.Word%20Pattern.playground/Contents.swift)
+64. [Nim Game](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/292.Nim%20Game.playground/Contents.swift)
 
 #### Medium
 
