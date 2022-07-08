@@ -26,6 +26,16 @@
  */
 class Solution {
     func isPowerOfThree(_ n: Int) -> Bool {
+        if n <= 0 { return false }
+        if n == 1 { return true }
+        var num = n
+        while num % 3 == 0 {
+            num /= 3
+        }
+        return num == 1
+    }
+    
+    func isPowerOfThree2(_ n: Int) -> Bool {
         if n < 0 { return false }
         var x = 0
         while pow(3, x) <= n {
@@ -45,5 +55,5 @@ class Solution {
 }
 
 let s = Solution()
-let r = s.isPowerOfThree(-3)
+let r = s.isPowerOfThree(1)
 print(r)
