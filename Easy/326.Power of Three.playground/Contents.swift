@@ -27,6 +27,11 @@
 class Solution {
     func isPowerOfThree(_ n: Int) -> Bool {
         if n <= 0 { return false }
+        // Any integer other than power of 3 which divides highest power of 3 value that integer can be hold 3^19 = 1162261467 (Assuming that integers are stored using 32 bits) will give reminder non-zero.
+        return 1162261467 % n == 0
+    }
+    func isPowerOfThree3(_ n: Int) -> Bool {
+        if n <= 0 { return false }
         if n == 1 { return true }
         if n % 3 == 0 {
             return isPowerOfThree(n / 3)

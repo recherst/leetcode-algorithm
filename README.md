@@ -67,6 +67,7 @@
 63. [Word Pattern](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/290.Word%20Pattern.playground/Contents.swift)
 64. [Nim Game](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/292.Nim%20Game.playground/Contents.swift)
 65. [Range Sum Query - Immutable](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/303.Range%20Sum%20Query%20-%20Immutable.playground/Contents.swift)
+66. [Power of Three](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/326.Power%20of%20Three.playground/Contents.swift)
 
 #### Medium
 
