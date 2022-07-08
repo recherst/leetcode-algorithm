@@ -1,3 +1,4 @@
+import Darwin
 /**
  Given an integer n, return true if it is a power of four. Otherwise, return false.
 
@@ -26,6 +27,10 @@
  */
 class Solution {
     func isPowerOfFour(_ n: Int) -> Bool {
+        return ((n & (n - 1)) == 0) && (n % 3 == 1)
+    }
+    
+    func isPowerOfFour2(_ n: Int) -> Bool {
         if n <= 0 { return false }
         let max = pow(2, power: 31) - 1
         var x = 0
@@ -35,7 +40,6 @@ class Solution {
             x += 1
         }
         // 1073741824
-        print(powerOfFourArr)
         return powerOfFourArr.contains(n)
     }
     
@@ -50,5 +54,5 @@ class Solution {
 }
 
 let s = Solution()
-let r = s.isPowerOfFour(8)
+let r = s.isPowerOfFour(16)
 print(r)

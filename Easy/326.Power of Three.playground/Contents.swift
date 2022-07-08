@@ -61,5 +61,5 @@ class Solution {
 }
 
 let s = Solution()
-let r = s.isPowerOfThree(1)
+let r = s.isPowerOfThree(16)
 print(r)
