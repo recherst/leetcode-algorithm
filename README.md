@@ -74,6 +74,7 @@
 70. [Reverse Vowels of a String](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/345.Reverse%20Vowels%20of%20a%20String.playground/Contents.swift)
 71. [Intersection of Two Arrays](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/349.Intersection%20of%20Two%20Arrays.playground/Contents.swift)
 72. [Intersection of Two Arrays II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/350.Intersection%20of%20Two%20Arrays%20II.playground/Contents.swift)
+73. [Valid Perfect Square](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/367.Valid%20Perfect%20Square.playground/Contents.swift)
 
 #### Medium
 

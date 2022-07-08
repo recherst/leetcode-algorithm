@@ -35,7 +35,6 @@ class Solution {
                 map1[nums1[i]] = 1
             }
         }
-        
         for i in 1..<nums2.count {
             if var count = map2[nums2[i]] {
                 count += 1
@@ -44,6 +43,7 @@ class Solution {
                 map2[nums2[i]] = 1
             }
         }
+        
         var result = [Int]()
         for (k1, v1) in map1 {
             for (k2, v2) in map2 {
@@ -57,7 +57,6 @@ class Solution {
                             result.append(k1)
                         }
                     }
-                    
                 }
             }
         }
