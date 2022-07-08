@@ -77,6 +77,7 @@
 73. [Valid Perfect Square](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/367.Valid%20Perfect%20Square.playground/Contents.swift)
 74. [Guess Number Higher or Lower](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/374.Guess%20Number%20Higher%20or%20Lower.playground/Contents.swift)
 75. [Ransom Note](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/383.Ransom%20Note.playground/Contents.swift)
+76. [First Unique Character in a String](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/387.First%20Unique%20Character%20in%20a%20String.playground/Contents.swift)
 
 #### Medium
 
