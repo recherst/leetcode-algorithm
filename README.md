@@ -72,6 +72,7 @@
 68. [Power of Four](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/342.Power%20of%20Four.playground/Contents.swift)
 69. [Reverse String](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/344.Reverse%20String.playground/Contents.swift)
 70. [Reverse Vowels of a String](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/345.Reverse%20Vowels%20of%20a%20String.playground/Contents.swift)
+71. [Intersection of Two Arrays](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/349.Intersection%20of%20Two%20Arrays.playground/Contents.swift)
 
 #### Medium
 
