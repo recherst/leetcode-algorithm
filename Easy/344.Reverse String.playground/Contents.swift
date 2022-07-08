@@ -23,10 +23,9 @@ class Solution {
         let midIndex = s.count / 2
         let count = s.count
         for i in 0..<midIndex {
-            let a = s[i]
-            let b = s[count - 1 - i]
-            s[i] = b
-            s[count - 1 - i] = a
+            let temp = s[i]
+            s[i] = s[count - 1 - i]
+            s[count - 1 - i] = temp
         }
     }
 }
