@@ -75,6 +75,7 @@
 71. [Intersection of Two Arrays](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/349.Intersection%20of%20Two%20Arrays.playground/Contents.swift)
 72. [Intersection of Two Arrays II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/350.Intersection%20of%20Two%20Arrays%20II.playground/Contents.swift)
 73. [Valid Perfect Square](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/367.Valid%20Perfect%20Square.playground/Contents.swift)
+74. [Guess Number Higher or Lower](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/374.Guess%20Number%20Higher%20or%20Lower.playground/Contents.swift)
 
 #### Medium
 
