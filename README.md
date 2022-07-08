@@ -69,6 +69,7 @@
 65. [Range Sum Query - Immutable](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/303.Range%20Sum%20Query%20-%20Immutable.playground/Contents.swift)
 66. [Power of Three](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/326.Power%20of%20Three.playground/Contents.swift)
 67. [Counting Bits](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/338.Counting%20Bits.playground/Contents.swift)
+68. [Power of Four](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/342.Power%20of%20Four.playground/Contents.swift)
 
 #### Medium
 
