@@ -80,6 +80,7 @@
 76. [First Unique Character in a String](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/387.First%20Unique%20Character%20in%20a%20String.playground/Contents.swift)
 77. [Find the Difference](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/389.Find%20the%20Difference.playground/Contents.swift)
 78. [Is Subsequence](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/392.Is%20Subsequence.playground/Contents.swift)
+79. [Binary Watch](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/401.Binary%20Watch.playground/Contents.swift)
 
 #### Medium
 
