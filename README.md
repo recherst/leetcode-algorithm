@@ -82,6 +82,7 @@
 78. [Is Subsequence](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/392.Is%20Subsequence.playground/Contents.swift)
 79. [Binary Watch](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/401.Binary%20Watch.playground/Contents.swift)
 80. [Sum of Left Leaves](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/404.Sum%20of%20Left%20Leaves.playground/Contents.swift)
+81. [Convert a Number to Hexadecimal](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/405.Convert%20a%20Number%20to%20Hexadecimal.playground/Contents.swift)
 
 #### Medium
 
