@@ -1,4 +1,3 @@
-import Darwin
 /**
  Given an integer num, return a string representing its hexadecimal representation. For negative integers, two’s complement method is used.
 
