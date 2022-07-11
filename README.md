@@ -81,6 +81,7 @@
 77. [Find the Difference](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/389.Find%20the%20Difference.playground/Contents.swift)
 78. [Is Subsequence](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/392.Is%20Subsequence.playground/Contents.swift)
 79. [Binary Watch](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/401.Binary%20Watch.playground/Contents.swift)
+80. [Sum of Left Leaves](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/404.Sum%20of%20Left%20Leaves.playground/Contents.swift)
 
 #### Medium
 
