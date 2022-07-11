@@ -85,6 +85,7 @@
 81. [Convert a Number to Hexadecimal](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/405.Convert%20a%20Number%20to%20Hexadecimal.playground/Contents.swift)
 82. [Longest Palindrome](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/409.Longest%20Palindrome.playground/Contents.swift)
 83. [Fizz Buzz](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/409.Fizz%20Buzz.playground/Contents.swift)
+84. [Third Maximum Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/414.Third%20Maximum%20Number.playground/Contents.swift)
 
 #### Medium
 
