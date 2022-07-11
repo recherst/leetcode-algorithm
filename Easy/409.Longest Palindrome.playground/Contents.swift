@@ -33,17 +33,18 @@ class Solution {
             }
         }
         var hasSingle = false
-        map = map.filter { $1 > 1 }
         var count = 0
         for e in map {
-            if e.value % 2 == 0 {
-                count += e.value
-            } else {
-                if !hasSingle {
-                    hasSingle = true
+            if e.value > 1 {
+                if e.value % 2 == 0 {
                     count += e.value
                 } else {
-                    count += (e.value - 1)
+                    if !hasSingle {
+                        hasSingle = true
+                        count += e.value
+                    } else {
+                        count += (e.value - 1)
+                    }
                 }
             }
         }
