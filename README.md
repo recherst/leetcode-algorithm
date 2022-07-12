@@ -87,6 +87,7 @@
 83. [Fizz Buzz](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/409.Fizz%20Buzz.playground/Contents.swift)
 84. [Third Maximum Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/414.Third%20Maximum%20Number.playground/Contents.swift)
 85. [Add Strings](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/415.Add%20Strings.playground/Contents.swift)
+86. [Number of Segments in a String](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/434.Number%20of%20Segments%20in%20a%20String.playground/Contents.swift)
 
 #### Medium
 
