@@ -89,7 +89,8 @@
 85. [Add Strings](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/415.Add%20Strings.playground/Contents.swift)
 86. [Number of Segments in a String](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/434.Number%20of%20Segments%20in%20a%20String.playground/Contents.swift)
 87. [Arranging Coins](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/441.Arranging%20Coins.playground/Contents.swift)
-88. [Find All Numbers Disappeared in an Array](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.playground/Contents.swift)
+88. [Find All Numbers Disappeared in an Array](c)
+89. [Minimum Moves to Equal Array Elements](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/448.Minimum%20Moves%20toEqual%20Array%20Elements.playground/Contents.swift)
 
 #### Medium
 
