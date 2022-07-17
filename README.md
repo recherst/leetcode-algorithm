@@ -92,6 +92,7 @@
 88. [Find All Numbers Disappeared in an Array](c)
 89. [Minimum Moves to Equal Array Elements](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/448.Minimum%20Moves%20toEqual%20Array%20Elements.playground/Contents.swift)
 90. [Assign Cookies](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/455.Assign%20Cookies.playground/Contents.swift)
+91. [Repeated Substring Pattern](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/459.Repeated%20Substring%20Pattern.playground/Contents.swift)
 
 #### Medium
 
