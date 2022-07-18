@@ -95,6 +95,7 @@
 91. [Repeated Substring Pattern](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/459.Repeated%20Substring%20Pattern.playground/Contents.swift)
 92. [Hamming Distance](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/461.Hamming%20Distance.playground/Contents.swift)
 93. [Number Complement](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/476.Number%20Complement.playground/Contents.swift)
+94. [License Key Formatting](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/482.License%20Key%20Formatting.playground/Contents.swift)
 
 #### Medium
 
