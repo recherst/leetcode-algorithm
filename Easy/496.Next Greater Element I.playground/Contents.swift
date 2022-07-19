@@ -33,6 +33,38 @@
  */
 class Solution {
     func nextGreaterElement(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
+        var keyToIndexMap = [Int: Int]()
+        var indexToKeyMap = [Int: Int]()
+        for (i, e) in nums2.enumerated() {
+            keyToIndexMap[e] = i
+            indexToKeyMap[i] = e
+        }
+        
+        var res = [Int]()
+        for e in nums1 {
+            let index = keyToIndexMap[e]!
+            if index == nums2.count - 1 {
+                res.append(-1)
+            } else {
+                var found = false
+                for i in (index + 1)..<nums2.count {
+                    let nextGreaterElement = indexToKeyMap[i]!
+                    if nextGreaterElement > e {
+                        res.append(nextGreaterElement)
+                        found = true
+                        break
+                    }
+                }
+                if !found {
+                    res.append(-1)
+                }
+            }
+        }
+        return res
+    }
+    
+    
+    func nextGreaterElement2(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
         var n = nums2
         var stack = [n.remove(at: 0)]
         var map = [Int: Int]()
