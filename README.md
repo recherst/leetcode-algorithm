@@ -100,6 +100,7 @@
 96. [Construct the Rectangle](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/492.Construct%20the%20Rectangle.playground/Contents.swift)
 97. [Teemo Attacking](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/495.Teemo%20Attacking.playground/Contents.swift)
 98. [Next Greater Element I](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/496.Next%20Greater%20Element%20I.playground/Contents.swift)
+99. [Keyboard Row](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/500.Keyboard%20Row.playground/Contents.swift)
 
 #### Medium
 
