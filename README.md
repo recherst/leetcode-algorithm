@@ -98,6 +98,7 @@
 94. [License Key Formatting](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/482.License%20Key%20Formatting.playground/Contents.swift)
 95. [Max Consecutive Ones](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/485.Max%20Consecutive%20Ones.playground/Contents.swift)
 96. [Construct the Rectangle](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/492.Construct%20the%20Rectangle.playground/Contents.swift)
+97. [Teemo Attacking](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/495.Teemo%20Attacking.playground/Contents.swift)
 
 #### Medium
 
