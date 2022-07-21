@@ -106,3 +106,4 @@
 #### Medium
 
 1. [Min Stack](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/155.Min%20Stack.playground/Contents.swift)
+1. [Longest Substring Without Repeating Characters](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/3.Longest%20Substring%20Without%20Repeating%20Characters.playground/Contents.swift)
