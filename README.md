@@ -108,3 +108,4 @@
 1. [Min Stack](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/155.Min%20Stack.playground/Contents.swift)
 2. [Longest Substring Without Repeating Characters](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/3.Longest%20Substring%20Without%20Repeating%20Characters.playground/Contents.swift)
 3. [Longest Palindromic Substring](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/5.Longest%20Palindromic%20Substring.playground/Contents.swift)
+4. [ZigZag Conversion](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/6.ZigZag%20Conversion.playground/Contents.swift)

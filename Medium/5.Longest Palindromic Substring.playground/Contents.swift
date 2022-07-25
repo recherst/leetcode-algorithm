@@ -22,7 +22,7 @@ class Solution {
     private var rightPosition = 0
     private var maxLength = 0
     func longestPalindrome(_ s: String) -> String {
-        let characterArr = s.map { $0 }
+        let characterArr = Array(s)
         for i in 0..<s.count {
             var index1 = i
             var index2 = i
