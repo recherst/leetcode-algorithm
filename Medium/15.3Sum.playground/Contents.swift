@@ -38,7 +38,7 @@ class Solution {
             if sortedNums[i] > 0 {
                 break
             }
-            // Remove duplicate element.
+            // Remove duplicate elements.
             if i > 0 && sortedNums[i] == sortedNums[i - 1] {
                 continue
             }
@@ -48,7 +48,7 @@ class Solution {
                 if sortedNums[i] + sortedNums[left] + sortedNums[right] == 0 {
                     res.append([sortedNums[i], sortedNums[left], sortedNums[right]])
                     
-                    // Remove duplicate element.
+                    // Remove duplicate elements.
                     while left < right && sortedNums[right] == sortedNums[right - 1] {
                         right -= 1
                     }
