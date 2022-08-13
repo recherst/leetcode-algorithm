@@ -117,3 +117,4 @@
 9. [3Sum](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/15.3Sum.playground/Contents.swift)
 10. [3Sum Closest](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/16.3Sum%20Closest.playground/Contents.swift)
 11. [Letter Combinations of a Phone Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/17.Letter%20Combinations%20of%20a%20Phone%20Number.playground/Contents.swift)
+12. [4Sum](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/18.4Sum.playground/Contents.swift)
