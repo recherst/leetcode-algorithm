@@ -103,6 +103,7 @@
 99. [Keyboard Row](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/500.Keyboard%20Row.playground/Contents.swift)
 100. [Base 7](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/504.Base%207.playground/Contents.swift)
 101. [Relative Ranks](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/506.Relative%20Ranks.playground/Contents.swift)
+102. [Perfect Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/507.Perfect%20Number.playground/Contents.swift)
 
 #### Medium
 
