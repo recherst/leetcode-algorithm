@@ -105,6 +105,7 @@
 101. [Relative Ranks](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/506.Relative%20Ranks.playground/Contents.swift)
 102. [Perfect Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/507.Perfect%20Number.playground/Contents.swift)
 103. [Fibonacci Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/509.Fibonacci%20Number.playground/Contents.swift)
+104. [Detect Capital](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/520.Detect%20Captial.playground/Contents.swift)
 
 #### Medium
 
