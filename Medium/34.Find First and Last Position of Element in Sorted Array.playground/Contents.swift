@@ -32,8 +32,6 @@ class Solution {
         if nums.count == 1 {
             if nums.first == target {
                 return [0, 0]
-            } else {
-                return [-1, -1]
             }
         } else {
             var left = 0
@@ -56,8 +54,8 @@ class Solution {
                     left = middle + 1
                 }
             }
-            return [-1, -1]
         }
+        return [-1, -1]
     }
 }
 
