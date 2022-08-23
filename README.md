@@ -107,6 +107,7 @@
 103. [Fibonacci Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/509.Fibonacci%20Number.playground/Contents.swift)
 104. [Detect Capital](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/520.Detect%20Captial.playground/Contents.swift)
 105. [Longest Uncommon Subsequence I](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/521.Longest%20Uncommon%20Subsequence%20I.playground/Contents.swift)
+106. [Reverse String II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/541.Reverse%20String%20II.playground/Contents.swift)
 
 #### Medium
 
