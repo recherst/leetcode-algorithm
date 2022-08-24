@@ -43,7 +43,7 @@ class Solution {
                 for (i, c) in preElement.enumerated() {
                     if i == 0 {
                         number = c
-                        count += 1
+                        count = 1
                     } else {
                         let preCharacter = preElement[preElement.index(preElement.startIndex, offsetBy: i - 1)]
                         if preCharacter == c {
@@ -54,10 +54,8 @@ class Solution {
                             count = 1
                         }
                     }
-                    if i == preElement.count - 1 {
-                        element.append("\(count)\(number)")
-                    }
                 }
+                element.append("\(count)\(number)")
                 count = 0
                 sumArr.append(element)
             }
