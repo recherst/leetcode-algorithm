@@ -110,6 +110,7 @@
 106. [Reverse String II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/541.Reverse%20String%20II.playground/Contents.swift)
 107. [Student Attendance Record I](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/551.Student%20Attendance%20Record%20I.playground/Contents.swift)
 108. [Reverse Words in a String III](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/557.Reverse%20Words%20in%20a%20String%20III.playground/Contents.swift)
+109. [Maximum Depth of N-ary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/559.Maximum%20Depth%20of%20N-ary%20Tree.playground/Contents.swift)
 
 #### Medium
 
