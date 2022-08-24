@@ -131,3 +131,4 @@
 16. [Find First and Last Position of Element in Sorted Array](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.playground/Contents.swift)
 17. [Valid Sudoku](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/36.Valid%20Sudoku.playground/Contents.swift)
 18. [Maximum Subarray](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/53.Maximum%20Subarray.playground/Contents.swift)
+19. [Count and Say](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/38.Count%20and%20Say.playground/Contents.swift)
