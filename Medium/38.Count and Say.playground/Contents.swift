@@ -32,7 +32,6 @@
  */
 class Solution {
     func countAndSay(_ n: Int) -> String {
-        if n == 1 { return "1" }
         var sumArr = ["1"]
         var count = 0
         var number = Character("1")
@@ -65,5 +64,5 @@ class Solution {
 }
 
 let s = Solution()
-let r = s.countAndSay(30)
+let r = s.countAndSay(1)
 print(r)
