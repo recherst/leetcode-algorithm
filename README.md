@@ -134,3 +134,4 @@
 17. [Valid Sudoku](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/36.Valid%20Sudoku.playground/Contents.swift)
 18. [Maximum Subarray](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/53.Maximum%20Subarray.playground/Contents.swift)
 19. [Count and Say](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/38.Count%20and%20Say.playground/Contents.swift)
+20. [Multiply Strings](https://github.com/recherst/leetcode-algtorithm/blob/main/Medium/43.Multiply%20Strings.playground/Contents.swift)
