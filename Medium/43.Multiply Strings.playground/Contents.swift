@@ -39,16 +39,16 @@ class Solution {
         var result = ""
         for (i, e) in arr.enumerated() {
             let n = e + flagArr[i]
+            let s = "\(n)"
             if n > 9 {
-                let s = "\(n)"
                 flagArr[i + 1] = Int(s[s.startIndex..<s.index(s.endIndex, offsetBy: -1)])!
-                result.append("\(n)".last!)
+                result.append(s.last!)
             } else {
-                result.append("\(n)")
+                result.append(s)
             }
         }
+        if result.last == "0" { result.removeLast() }
         result = String(result.reversed())
-        if result.first == "0" { result.removeFirst() }
         return result
     }
 }

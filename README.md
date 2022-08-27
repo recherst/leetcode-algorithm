@@ -112,6 +112,7 @@
 108. [Maximum Depth of N-ary Tree](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/559.Maximum%20Depth%20of%20N-ary%20Tree.playground/Contents.swift)
 109. [Array Partition](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/561.Array%20Partition.playground/Contents.swift)
 110. [Reshape the Matrix](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/566.Reshape%20the%20Matrix.playground/Contents.swift)
+111. [Distribute Candies](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/575.Distribute%20Candies.playground/Contents.swift)
 
 #### Medium
 
