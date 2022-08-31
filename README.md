@@ -113,6 +113,7 @@
 109. [Array Partition](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/561.Array%20Partition.playground/Contents.swift)
 110. [Reshape the Matrix](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/566.Reshape%20the%20Matrix.playground/Contents.swift)
 111. [Distribute Candies](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/575.Distribute%20Candies.playground/Contents.swift)
+112. [Longest Harmonious Subsequence](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/594.Longest%20Harmonious%20Subsequence.playground/Contents.swift)
 
 #### Medium
 
