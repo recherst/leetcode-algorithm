@@ -116,6 +116,7 @@
 112. [Longest Harmonious Subsequence](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/594.Longest%20Harmonious%20Subsequence.playground/Contents.swift)
 113. [Minimum Index Sum of Two Lists](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/599.Minimum%20Index%20Sum%20of%20Two%20Lists.playground/Contents.swift)
 114. [Can Place Flowers](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/605.Can%20Place%20Flowers.playground/Contents.swift)
+115. [Maximum Product of Three Numbers](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/628.Maximum%20Product%20of%20Three%20Numbers.playground/Contents.swift)
 
 #### Medium
 
