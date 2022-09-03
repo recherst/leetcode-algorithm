@@ -49,14 +49,14 @@ class Solution {
                 keyPair.append([e: index])
             }
         }
-        keyPair = keyPair.sorted { e1, e2 in
-            e1.first!.value < e2.first!.value
-        }
+        keyPair = keyPair.sorted { $0.first!.value < $1.first!.value }
         var result = [String]()
         let minimum = keyPair.first!.first!.value
         for e in keyPair {
             if e.first!.value == minimum {
                 result.append(e.first!.key)
+            } else {
+                break
             }
         }
         return result
