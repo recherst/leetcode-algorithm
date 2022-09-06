@@ -21,7 +21,7 @@
 
  Constraints:
  - 1 <= nums.length <= 10^4
- - -109 <= nums[i] <= 10^9
+ - -10^9 <= nums[i] <= 10^9
  */
 class Solution {
     func findLengthOfLCIS(_ nums: [Int]) -> Int {
