@@ -22,7 +22,7 @@
   
 
  Constraints:
- - 1 <= s.length <= 2 * 105
+ - 1 <= s.length <= 2 * 10^5
  - s consists only of printable ASCII characters.
  */
 class Solution {
