@@ -35,6 +35,28 @@ class Solution {
                 newStr.append(c)
             }
         }
+        if newStr.isEmpty { return true }
+        var left = newStr.startIndex
+        var right = newStr.index(before: newStr.endIndex)
+        while left < right {
+            if newStr[left] != newStr[right] {
+                return false
+            }
+            left = newStr.index(after: left)
+            right = newStr.index(before: right)
+        }
+        return true
+    }
+    
+    func isPalindrome2(_ s: String) -> Bool {
+        var newStr = ""
+        for c in s {
+            if ("a"..."z").contains(c.lowercased()) {
+                newStr.append(c.lowercased())
+            } else if ("0"..."9").contains(c) {
+                newStr.append(c)
+            }
+        }
         guard !newStr.isEmpty else { return true }
         let preStr = String(newStr.prefix(newStr.count / 2))
         let sufStr = String(newStr.suffix(newStr.count / 2))
