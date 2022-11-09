@@ -122,6 +122,7 @@
 118. [Robot Return to Origin](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/657.Robot%20Return%20to%20Origin.playground/Contents.swift)
 119. [Longest Continuous Increasing Subsequence](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/674.Longest%20Continuous%20Increasing%20Subsequence.playground/Contents.swift)
 120. [Valid Palindrome II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/680.Valid%20Palindrome%20II.playground/Contents.swift)
+121. [Baseball Game](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/682.Baseball%20Game.playground/Contents.swift)
 
 #### Medium
 
