@@ -60,23 +60,29 @@
 class Solution {
     func calPoints(_ operations: [String]) -> Int {
         var numsArr = [Int]()
+        var sum = 0
         for s in operations {
             if s == "C" {
-                numsArr.popLast()
+                let newElement: Int = numsArr.popLast()!
+                sum -= newElement
             } else if s == "D" {
                 var newElement: Int = numsArr.last!
                 newElement *= 2
                 numsArr.append(newElement)
+                sum += newElement
             } else if s == "+" {
                 let last = numsArr.last!
                 let previousLast = numsArr[numsArr.count - 2]
                 let newElement = last + previousLast
                 numsArr.append(newElement)
+                sum += newElement
             } else {
-                numsArr.append(Int(s)!)
+                let newElement = Int(s)!
+                numsArr.append(newElement)
+                sum += newElement
             }
         }
-        return numsArr.reduce(0, +)
+        return sum
     }
 }
 
