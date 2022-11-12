@@ -83,7 +83,7 @@
 79. [Sum of Left Leaves](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/404.Sum%20of%20Left%20Leaves.playground/Contents.swift)
 80. [Convert a Number to Hexadecimal](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/405.Convert%20a%20Number%20to%20Hexadecimal.playground/Contents.swift)
 81. [Longest Palindrome](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/409.Longest%20Palindrome.playground/Contents.swift)
-82. [Fizz Buzz](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/409.Fizz%20Buzz.playground/Contents.swift)
+82. [Fizz Buzz](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/412.Fizz%20Buzz.playground/Contents.swift)
 83. [Third Maximum Number](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/414.Third%20Maximum%20Number.playground/Contents.swift)
 84. [Add Strings](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/415.Add%20Strings.playground/Contents.swift)
 85. [Number of Segments in a String](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/434.Number%20of%20Segments%20in%20a%20String.playground/Contents.swift)
@@ -123,6 +123,7 @@
 119. [Longest Continuous Increasing Subsequence](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/674.Longest%20Continuous%20Increasing%20Subsequence.playground/Contents.swift)
 120. [Valid Palindrome II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/680.Valid%20Palindrome%20II.playground/Contents.swift)
 121. [Baseball Game](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/682.Baseball%20Game.playground/Contents.swift)
+122. [Binary Number with Alternating Bits](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/693.Binary%20Number%20with%20Alternating%20Bits.playground/Contents.swift)
 
 #### Medium
 
