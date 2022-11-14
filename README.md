@@ -124,6 +124,7 @@
 120. [Valid Palindrome II](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/680.Valid%20Palindrome%20II.playground/Contents.swift)
 121. [Baseball Game](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/682.Baseball%20Game.playground/Contents.swift)
 122. [Binary Number with Alternating Bits](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/693.Binary%20Number%20with%20Alternating%20Bits.playground/Contents.swift)
+123. [Count Binary Substrings](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/696.Count%20Binary%20Substringsplayground/Contents.swift)
 
 #### Medium
 
