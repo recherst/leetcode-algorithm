@@ -126,6 +126,7 @@
 122. [Binary Number with Alternating Bits](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/693.Binary%20Number%20with%20Alternating%20Bits.playground/Contents.swift)
 123. [Count Binary Substrings](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/696.Count%20Binary%20Substrings.playground/Contents.swift)
 124. [Degree of an Array](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/697.Degree%20of%20an%20Array.playground/Contents.swift)
+125. [Long Pressed Name](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/925.Long%20Pressed%20Name.playground/Contents.swift)
 
 #### Medium
 
