@@ -26,15 +26,16 @@
  */
 class Solution {
     func isOneBitCharacter(_ bits: [Int]) -> Bool {
+        if bits.last != 0 { return false }
         var result = [Int]()
-        for (i, c) in bits.enumerated() {
-            if c == 0 && i != bits.count - 1 {
-                result.removeAll()
-            } else {
-                result.append(c)
+        var index = bits.count - 1
+        while index >= 0 {
+            if index < bits.count - 1 && bits[index] == 0 {
+                break
             }
+            result.append(bits[index])
+            index -= 1
         }
-        if result.last != 0 { return false }
         return (result.count - 1) % 2 == 0
     }
 }
