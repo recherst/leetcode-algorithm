@@ -129,6 +129,7 @@
 125. [Long Pressed Name](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/925.Long%20Pressed%20Name.playground/Contents.swift)
 126. [Binary Search](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/704.Binary%20Search.playground/Contents.swift)
 127. [To Lower Case](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/709.To%20Lower%20Case.playground/Contents.swift)
+128. [1-bit and 2-bit Characters](https://github.com/recherst/leetcode-algtorithm/blob/main/Easy/717.1-bit%20and%202-bit%20Characters.playground/Contents.swift)
 
 #### Medium
 
